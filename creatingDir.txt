@@ -1,0 +1,9 @@
+#Maya Carla Loletha Anderson
+#July 2022
+#Shell script: creates dirctories for project
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results
